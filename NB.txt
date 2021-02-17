@@ -1,0 +1,9 @@
+nota importante:
+
+Caso deia bug nas imagens qnd for feito o carregamento.
+
+tentativa de solução:
+
+mudar as imagens para a pasta public
+
+

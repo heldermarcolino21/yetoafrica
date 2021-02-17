@@ -1,0 +1,139 @@
+
+/*==================
+ NAVBAR SECTION
+====================*/
+
+
+
+/*==================
+ NAVBAR SECTION
+====================*/
+#mu-menu {
+    display: inline;
+    float: left;
+    width: 100%;
+  }
+  #mu-menu .navbar-header .navbar-brand {
+    color: #333;
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 20px;
+    letter-spacing: 0.5px;
+  }
+  #mu-menu .navbar-header .navbar-brand i {
+    font-size: 35px;
+  }
+  #mu-menu .navbar-header .navbar-brand span {
+    margin-left: 4px;
+  }
+  #mu-menu .navbar-default {
+    background-color: #fff;
+    border-radius: 0;
+    border-left: none;
+    border-right: none;
+    margin-bottom: 0px;
+  }
+  #mu-menu .navbar-default .navbar-nav li > a {
+    border-bottom: 2px solid transparent;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: -1px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+  #mu-menu .navbar-default .navbar-nav li #mu-search-icon:hover, #mu-menu .navbar-default .navbar-nav li #mu-search-icon:focus {
+    border: none;
+  }
+  #mu-menu .navbar-default .navbar-nav li .dropdown-menu {
+    border-radius: 0px;
+  }
+  #mu-menu .navbar-default .navbar-nav li .dropdown-menu li a {
+    color: #333333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #mu-menu .navbar-default .navbar-nav li .dropdown-menu li a:hover, #mu-menu .navbar-default .navbar-nav li .dropdown-menu li a:focus {
+    color: #fff;
+  }
+  #mu-menu .navbar-default .navbar-nav .open a:hover, #mu-menu .navbar-default .navbar-nav .open a:focus {
+    color: #fff;
+  }
+
+  .banner-carrinho{
+      background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,8));
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#cart_items{
+    margin-top: 14rem;
+}
+
+
+#mu-footer{
+    background: #0e0d0d;
+    color: #fff;
+}
+.mu-footer-widget{
+    margin-top: 3rem;
+}
+.mu-footer-widget a{
+    color: #fff;
+}
+.mu-footer-bottom{
+background: rgb(161, 159, 159);
+}
+.mu-footer-bottom .textreser{
+    margin-top: 1rem;
+}
+.mu-subscribe-form{
+    width: 250px;
+    height: 50px;
+    outline: none;
+    padding-left: 0.5rem;
+    border: none;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+.mu-subscribe-btn::placeholder{
+    color: #b1b1b1;
+}
+.mu-subscribe-btn{
+    height: 2.4rem;
+    border-radius: 4px;
+    background-color: rgb(27, 211, 218);
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1.4rem;
+}
